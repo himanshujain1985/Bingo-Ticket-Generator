@@ -1,0 +1,10 @@
+<div class="flex-container">
+  <button class="button-margin" (click)="generateBingoTicket()">Generate New Bingo Ticket</button>
+  <div class="bingo-container">
+    <div class="flex-content" *ngFor="let row of rows">
+      <div class="bingo-cell" *ngFor="let column of columns">
+        <div class="center">{{bingoData[column][row]}}</div>
+      </div>
+    </div>
+  </div>
+</div>
