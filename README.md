@@ -1,7 +1,7 @@
 # BingoGenerator
 
-This is a simple project to generate Bingo Ticket. 
-Feel free to provide any feedback or if you see any problem with the logic used.
+This is a simple project to generate Bingo Ticket.<br/> 
+Feel free to provide any feedback or if you see any problem with the logic used.<br/> 
 This is generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ## Development server
