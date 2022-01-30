@@ -1,6 +1,8 @@
 # BingoGenerator
 
-This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+This is a simple project to generate Bingo Ticket written in Typescript + Angular.<br/> <br/>
+Feel free to provide any feedback or if you see any problem with the logic used.<br/>
+This is generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
 
