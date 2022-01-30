@@ -1,6 +1,6 @@
 # BingoGenerator
 
-This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
 
